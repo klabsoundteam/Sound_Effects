@@ -42,7 +42,7 @@ KLab株式会社のサウンドチームが作成したフットステップ集�
 * SE_Foot_Boots_Land_Grass_●●.wav → 芝生で着地する足音。
 * SE_Foot_Boots_Land_Metal_●●.wav → 固めの金属板で着地する足音。
 * SE_Foot_Boots_Land_Mud_●●.wav → 泥土で着地する足音。
-* SE_Foot_Boots_Land_Soil_01.wav → 砂場でで着地する足音。
-* SE_Foot_Boots_Land_Stone_01.wav → 石床で着地する足音。
-* SE_Foot_Boots_Land_Water_01.wav → 水たまりで着地する足音。
-* SE_Foot_Boots_Land_Wood_01.wav → 木床で着地する足音。
+* SE_Foot_Boots_Land_Soil_●●.wav → 砂場でで着地する足音。
+* SE_Foot_Boots_Land_Stone_●●.wav → 石床で着地する足音。
+* SE_Foot_Boots_Land_Water_●●.wav → 水たまりで着地する足音。
+* SE_Foot_Boots_Land_Wood_●●.wav → 木床で着地する足音。
